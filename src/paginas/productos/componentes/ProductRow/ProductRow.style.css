@@ -1,0 +1,10 @@
+.pr-container {
+    border: 2px solid red;
+    text-align: left;
+    margin-bottom: 2px;
+}
+
+.pr-stock{
+    color :red;
+    font-weight: bold;
+}
